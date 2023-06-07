@@ -4,3 +4,4 @@ packaging
 pluggy
 pytest
 tomli
+pytest-cov
